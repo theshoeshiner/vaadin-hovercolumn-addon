@@ -2,4 +2,4 @@ import './vaadin-featureflags.ts';
 
 import './index';
 
-import '@vaadin/flow-frontend/VaadinDevmodeGizmo.js';
+import 'Frontend/generated/jar-resources/vaadin-dev-tools.js';

@@ -1,4 +1,4 @@
-package org.thshsh.vaadin.grid;
+package org.vaadin.addons.hovercolumn;
 
 import com.vaadin.flow.component.Component;
 import com.vaadin.flow.component.dependency.CssImport;

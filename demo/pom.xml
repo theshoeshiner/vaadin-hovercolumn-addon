@@ -4,9 +4,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.vaadin.addons</groupId>
-    <artifactId>hovercolumn</artifactId>
-    <version>1.0.0</version>
+    <groupId>org.vaadin.thshsh</groupId>
+    <artifactId>hovercolumn-demo</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
     <name>HoverColumn Add-on for Vaadin</name>
     <description>HoverColumn Add-on for Vaadin</description>
 
@@ -18,7 +18,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     </properties>
     <organization>
-        <name>Daniel Watson</name>
+        <name>TheShoeShiner</name>
     </organization>
     <licenses>
         <license>
