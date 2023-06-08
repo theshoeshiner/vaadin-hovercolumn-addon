@@ -1,8 +1,10 @@
-package org.vaadin.addons.hovercolumn;
+package org.vaadin.addons.thshsh.hovercolumn;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
+
+import org.vaadin.addons.thshsh.hovercolumn.HoverColumn;
 
 import com.vaadin.flow.component.button.Button;
 import com.vaadin.flow.component.grid.Grid;
@@ -35,6 +37,7 @@ public class AddonView extends Div {
     	grid.addComponentColumn(person -> {
     		HorizontalLayout buttons = new HorizontalLayout();
     		Button edit = new Button(VaadinIcon.PENCIL.create());
+    		edit.addClassName(HoverColumn.HOVER_COLUMN_EXCLUDE_CLASS);
     		Button delete = new Button(VaadinIcon.TRASH.create());
     		buttons.add(edit,delete);
     		return buttons;

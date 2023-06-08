@@ -1,4 +1,4 @@
-package org.vaadin.addons.hovercolumn;
+package org.vaadin.addons.thshsh.hovercolumn;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.Assert;

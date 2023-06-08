@@ -1,4 +1,4 @@
-package org.vaadin.addons.hovercolumn;
+package org.vaadin.addons.thshsh.hovercolumn;
 
 import com.vaadin.flow.component.html.testbench.DivElement;
 import org.junit.Assert;
