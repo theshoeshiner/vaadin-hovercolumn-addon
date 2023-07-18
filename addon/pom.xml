@@ -6,7 +6,7 @@
 
     <groupId>org.vaadin.addons.thshsh</groupId>
     <artifactId>hovercolumn</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <name>Hover Column</name>
     <description>HoverColumn Add-on for Vaadin</description>
 
